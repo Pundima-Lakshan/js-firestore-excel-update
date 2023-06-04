@@ -1,0 +1,16 @@
+{
+  "name": "js-firestore-excel-update",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.18.0",
+    "xlsx": "^0.18.5"
+  }
+}
